@@ -1,0 +1,115 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]MUNDO DO BITA[/COLOR]
+
+#EXTINF:-1, [COLOR blue]LISTA DO JOK[/COLOR]
+
+#EXTINF:-1, [COLOR red]ATUALIZADA EM 26/01/2017[/COLOR]
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - A Gente Cresce[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AFN52hq7d7w
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Xic, Xic, Xic[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cnzgHAIRqmc 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Ela e Ele[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_kjh0Pwc2Ms 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Onde Se Fabrica o Pensamento[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FhNJHE0aask
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green] Mundo Bita - Massinha[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JTJfJ0jWQGo
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Parabéns do Bita[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cGs1QA2bLdw 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Quebra-Cabeça[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xPQpagdYKNs 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - O Parquinho[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OCyKKSjCzKY
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Troca Roupa[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BFCePyavZbg
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Bom Banho[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=31iBxkTTAfc
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Para Papar[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oChO-C4__ZE  
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Eu Quero Ver Você Me Pegar[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AD25rGt5x00 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - A Boneca e o Boneco[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4hmTy4mTCtc 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Vou Desenhar[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zL5nyXPjJjU 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Roda Roda[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_HsZ2vPksvE 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Chuá Tchibum[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tyHj0OxckSc 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Pelos Polos[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DysjscnMU5g 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Não Existem de Verdade[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B9gps8zg4U0  
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Insetos[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j7A9ANT2aVQ   
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Festa na Lagoa – Vídeo infantil[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Oa5BaUBXpho         
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - De Estimação[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5TVsXxsFJps     
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Dinossauros[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0GIgk4yuHOQ 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Como é Verde na Floresta[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2ZB6dQ-Fjho   
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Voa Voa Passarinho[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hgFfC4cCnec 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Viajar pelo Safari[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9WFYuIu7BKA   
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Natal do Bita[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eulFsmcNHos 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green] Mundo Bita - São João do Bita[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ueTMLzcYcu0  
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Carnaval do Bita[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=siVfbM-jicg     
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Fazendinha[/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cjONzZPJONc  
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - No fundo do mar[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iY91JoMWQoM  
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Minha Pipa[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2l9nXqvhy6U 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Condutores do Futuro[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f8V_ZmOysNo 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green] Mundo Bita - Meu Pequeno Coração[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dqSanOdW4Iw  
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green] Mundo Bita - Assim é Ser Criança[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uUgv2bCnbv4 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - Canção pro Universo[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EumDNDsW4RA 
+
+#EXTINF:-1 tvg-logo="http://www.atividadeseducacaoinfantil.com.br/wp-content/uploads/2014/04/mundo-bita.png" group-title="DESENHO",[COLOR green]Mundo Bita - BEM-VINDO AO MUNDO BITA[/COLOR] 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zUsQbjg9QuM
